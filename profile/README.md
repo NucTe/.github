@@ -30,7 +30,7 @@ Feeling the adrenaline rush? Explore our Minecraft Mods/Plugins and software pro
 
 Whether you're a Minecraft maestro, a software sorcerer, or just someone curious about the digital frontier, there's a spot for you in the NucTe family. Join us on Discord, and let’s turn your coding and gaming dreams into reality!
 
-🌐 [Join the NucTe Discord][1]
+🌐 [Join the NucTe Discord][2]
 
 Time to code, game, and conquer! 🎮✨
 
