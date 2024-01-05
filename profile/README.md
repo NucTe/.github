@@ -34,5 +34,5 @@ Whether you're a Minecraft maestro, a software sorcerer, or just someone curious
 
 Time to code, game, and conquer! 🎮✨
 
-[1][https://github.com/NucTe?q=&type=public&language=&sort=]
-[2][https://discord.gg/hFQSuvyXEr]
+[1](https://github.com/NucTe?q=&type=public&language=&sort=)
+[2](https://discord.gg/hFQSuvyXEr)
