@@ -24,13 +24,13 @@ NucTe, or NuclearTeam for the formal types, isn't just about code; it's about cr
 
 Feeling the adrenaline rush? Explore our Minecraft Mods/Plugins and software projects. The virtual world is our canvas, and we're painting it with lines of code.
 
-🔗 [Discover Our Projects][1]
+🔗 [Discover Our Projects](1)
 
 ## Want to Join the Coding Odyssey? 🚀
 
 Whether you're a Minecraft maestro, a software sorcerer, or just someone curious about the digital frontier, there's a spot for you in the NucTe family. Join us on Discord, and let’s turn your coding and gaming dreams into reality!
 
-🌐 [Join the NucTe Discord][2]
+🌐 [Join the NucTe Discord](2)
 
 Time to code, game, and conquer! 🎮✨
 
